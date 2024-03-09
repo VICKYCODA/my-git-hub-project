@@ -1,0 +1,1 @@
+constboard =document.getElementById(demo).innerHTML ="tic tac teo"
